@@ -1,0 +1,17 @@
+Hero Patterns (Es para hacer patrones de imagenes, es decir como con figuras y eso, muy util)
+https://www.heropatterns.com/
+
+SweetAlert2 (Alertas con un diseño lindo)
+https://sweetalert2.github.io/
+
+Animate.css (Animaciones para el contenido de la pagina)
+https://animate.style/
+
+FontAwesome (iconos)
+https://fontawesome.com/
+
+Pexels (Pagina para sacar imagenes)
+https://www.pexels.com/es-es/
+
+Guia flex CSS
+http://www.mywonderland.es/curso_js/HTML/flex.html
